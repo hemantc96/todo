@@ -19,6 +19,7 @@ input{
     position: relative;
     bottom: 350px;
     left:500px;
+    align-items: center;
 }
 .addp{
     background-color: red;
@@ -27,4 +28,5 @@ input{
     height: 25px;
     padding: 10px;
     border-radius: 20px;
+    align-items: center;
 }
